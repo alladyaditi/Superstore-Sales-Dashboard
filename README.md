@@ -1,5 +1,5 @@
 # Superstore Sales Dashboard (Tableau)
-## Overivew 
+## Overview 
 This project features an interactive Tableau dashboard analyzing Superstore sales data across the United States. It provides key insights into revenue performance, product trends, and geographic distribution at the city level.
 The dashboard includes KPI tracking, time-series analysis, and top product identification, enabling clear visualization of sales patterns and key business drivers.
 
