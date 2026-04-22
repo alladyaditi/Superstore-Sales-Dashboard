@@ -20,6 +20,7 @@ The dashboard includes KPI tracking, time-series analysis, and top product ident
 - Geographic analysis shows variation in sales across regions and cities, highlighting potential areas for targeted business expansion.
   
 ##  Project Structure
+
 Superstore-Sales-Dashboard/
 │
 ├── data/
@@ -32,6 +33,7 @@ Superstore-Sales-Dashboard/
 │ └── dashboard.png
 │
 └── README.md
+
 ## How to Use
 1. Download the `.twbx` file from the repository  
 2. Open in Tableau Desktop  
