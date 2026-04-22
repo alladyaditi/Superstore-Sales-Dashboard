@@ -22,18 +22,19 @@ The dashboard includes KPI tracking, time-series analysis, and top product ident
 ##  Project Structure
 
 Superstore-Sales-Dashboard/
+
 │
 
 ├── data/
-│ └── train.csv
+│   - train.csv
 │
 
 ├── tableau/
-│ └── sales_dashboard.twbx
+│   - sales_dashboard.twbx
 │
 
 ├── images/
-│ └── dashboard.png
+│   - dashboard.png
 │
 
 └── README.md
