@@ -21,9 +21,7 @@ The dashboard includes KPI tracking, time-series analysis, and top product ident
   
 ##  Project Structure
 
-Superstore-Sales-Dashboard/
-
-│
+Superstore-Sales-Dashboard/│
 
 ├── data/
 │   - train.csv
